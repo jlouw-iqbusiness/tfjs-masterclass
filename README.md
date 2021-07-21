@@ -26,3 +26,7 @@ https://ml5js.org/
 https://beta.openai.com/playground
 
 https://www.kaggle.com/
+
+## Workshop Survey:
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=C3nCdyk_Ok-1GAGf_ctT3iGnRb4Oq45BlGMO-yQUje1UQ1JaVlFSWlRZVElXNVdCMEJGVFVBRkdHVyQlQCN0PWcu
