@@ -24,3 +24,5 @@ https://en.wikipedia.org/wiki/Tensor
 https://ml5js.org/
 
 https://beta.openai.com/playground
+
+https://www.kaggle.com/
